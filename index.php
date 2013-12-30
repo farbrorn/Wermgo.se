@@ -13,14 +13,14 @@ $pages = array(
 		"fot" => "",
 		"items" => array(
 			array(
-				"rubrik" => "Golvvärme",
-				"text" => "Kompletta systemlösnignar för golvvärme",
+				"rubrik" => "Golvvï¿½rme",
+				"text" => "Kompletta systemlÃ¶snignar fÃ¶r golvvÃ¶rme",
 				"bildurl" => "",
 				"linkpageid" => "golv"
 			),
 			array(
 				"rubrik" => "Tappvatten",
-				"text" => "Kompletta systemlösningar för tappvattensystem typ Rör-i-Rör.",
+				"text" => "Kompletta systemlï¿½sningar fï¿½r tappvattensystem typ Rï¿½r-i-Rï¿½r.",
 				"bildurl" => "",
 				"linkpageid" => "tapp"
 			)
@@ -30,7 +30,7 @@ $pages = array(
 	"tapp" => array(
 		"type" => "",
 		"rubrik" => "Wermgo Tappvatten",
-		"text" => "Kompletta tappvattensystem av typen Rör-i-Rör.",
+		"text" => "Kompletta tappvattensystem av typen Rï¿½r-i-Rï¿½r.",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
@@ -47,12 +47,12 @@ $pages = array(
 	"om" => array(
 		"type" => "",
 		"rubrik" => "Om Wermgo",
-		"text" => "<p>Wermgo tillhandahåller system för vattenburen golvvärme och tappvatten till proffsmarknaden.</p>
-			<p>Vårt system består av noga utvalda komponenter från flera ledande tillverkare. Kvalitet är ett ledord - Du kan alltid vara säker på att en produkt från Wermgo håller högsta klass.</p>
-			<p>I våra system finns många innovativa lösningar och vi eftersträvar enkelhet och snabbhet vid montering.</p>
-			<p>Vi levererar till proffsmarknaden och som privatperson är Du alltid välkomna att kontakta oss för hjälp med Ditt golvvärmeprojekt. Vi tar kostnadsfritt fram budgetpris och gör förläggningsritning. Beställer och förhandlar pris gör Du sedan från valfri återförsäljare.</p>
-			<p>Hos oss får Du alltid personlig service, och Du är alltid välkommen att slå oss en signal!</p>
-			<p>Om du inte har tid att ringa går det naturligtvis bra att skicka oss e-posta.</p>",
+		"text" => "<p>Wermgo tillhandahï¿½ller system fï¿½r vattenburen golvvï¿½rme och tappvatten till proffsmarknaden.</p>
+			<p>Vï¿½rt system bestï¿½r av noga utvalda komponenter frï¿½n flera ledande tillverkare. Kvalitet ï¿½r ett ledord - Du kan alltid vara sï¿½ker pï¿½ att en produkt frï¿½n Wermgo hï¿½ller hï¿½gsta klass.</p>
+			<p>I vï¿½ra system finns mï¿½nga innovativa lï¿½sningar och vi efterstrï¿½var enkelhet och snabbhet vid montering.</p>
+			<p>Vi levererar till proffsmarknaden och som privatperson ï¿½r Du alltid vï¿½lkomna att kontakta oss fï¿½r hjï¿½lp med Ditt golvvï¿½rmeprojekt. Vi tar kostnadsfritt fram budgetpris och gï¿½r fï¿½rlï¿½ggningsritning. Bestï¿½ller och fï¿½rhandlar pris gï¿½r Du sedan frï¿½n valfri ï¿½terfï¿½rsï¿½ljare.</p>
+			<p>Hos oss fï¿½r Du alltid personlig service, och Du ï¿½r alltid vï¿½lkommen att slï¿½ oss en signal!</p>
+			<p>Om du inte har tid att ringa gï¿½r det naturligtvis bra att skicka oss e-posta.</p>",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
@@ -62,13 +62,13 @@ $pages = array(
 	
 	"proffs" => array(
 		"type" => "",
-		"rubrik" => "För proffs",
-		"text" => "Här hittar du tekniska information.",
+		"rubrik" => "Fï¿½r proffs",
+		"text" => "Hï¿½r hittar du tekniska information.",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
 			array(
-				"rubrik" => "Produktlista Golvvärme",
+				"rubrik" => "Produktlista Golvvï¿½rme",
 				"text" => "",
 				"bildurl" => "",
 				"linkpageid" => "golv"
@@ -80,7 +80,7 @@ $pages = array(
 				"linkpageid" => "golv"
 			),
 			array(
-				"rubrik" => "Monteringsanvisningar Golvvärme",
+				"rubrik" => "Monteringsanvisningar Golvvï¿½rme",
 				"text" => "",
 				"bildurl" => "",
 				"linkpageid" => "golv"
@@ -97,10 +97,10 @@ $pages = array(
 	
 	
 	
-	//Startsida golvvärme
+	//Startsida golvvï¿½rme
 	"golv" => array(
 		"type" => "",
-		"rubrik" => "Vilken typ av installation ska du göra?",
+		"rubrik" => "Vilken typ av installation ska du gï¿½ra?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
@@ -113,54 +113,54 @@ $pages = array(
 			),
 			array(
 				"rubrik" => "Flera rum, totalt upp till " . $maxyta_n . " m2",
-				"text" => "Nybyggnation eller större renovering.",
+				"text" => "Nybyggnation eller stï¿½rre renovering.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n"
 			)
 		)
 	),
 	
-	//Lista på enstaka rum
+	//Lista pï¿½ enstaka rum
 	"golv-e" => array(
 		"type" => "",
-		"rubrik" => "Vilken typ av golv ska du göra?",
+		"rubrik" => "Vilken typ av golv ska du gï¿½ra?",
 		"text" => "Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br>when an unknown printer took a galley of type and scrambled it to make a type specimen book.<br> It has survived not only five centuries,<br> but also the leap into electronic typesetting",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
 			array(
 				"rubrik" => "Ingjutning i betong",
-				"text" => "Golvvärme ingjuten i betongplatta.",
+				"text" => "Golvvï¿½rme ingjuten i betongplatta.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0001.png",
 				"linkpageid" => "golv-e-betong"
 			),
 			array(
-				"rubrik" => "Flytande golv på befintligt golv",
-				"text" => "Golvvärme monterad i cellplastskivor för t.ex renovering.",
+				"rubrik" => "Flytande golv pï¿½ befintligt golv",
+				"text" => "Golvvï¿½rme monterad i cellplastskivor fï¿½r t.ex renovering.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0003.png",
 				"linkpageid" => "golv-e-cell"
 			),
 			array(
 				"rubrik" => "Glespanel",
-				"text" => "Golvvärme monterad i glespanel c/c 30 cm.",
+				"text" => "Golvvï¿½rme monterad i glespanel c/c 30 cm.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0009.png",
 				"linkpageid" => "golv-e-gles"
 			),
 			array(
-				"rubrik" => "Träbjälklag",
-				"text" => "Golvvärme monterad i träbjälklag c/c 60 cm.",
+				"rubrik" => "Trï¿½bjï¿½lklag",
+				"text" => "Golvvï¿½rme monterad i trï¿½bjï¿½lklag c/c 60 cm.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0011.png",
 				"linkpageid" => "golv-e-tra"
 			),
 			array(
-				"rubrik" => "Spånskivor",
-				"text" => "Golvvärme monterad i spånskivor.",
+				"rubrik" => "Spï¿½nskivor",
+				"text" => "Golvvï¿½rme monterad i spï¿½nskivor.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0013.png",
 				"linkpageid" => "golv-e-span"
 			),
 			array(
 				"rubrik" => "Inspackling",
-				"text" => "Golvvärme inspacklad i tunna golv. T.ex. vid renovering av badrum.",
+				"text" => "Golvvï¿½rme inspacklad i tunna golv. T.ex. vid renovering av badrum.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0015.png",
 				"linkpageid" => "golv-e-q"
 			)
@@ -170,7 +170,7 @@ $pages = array(
 	
 	"golv-e-cell" => array(
 		"type" => "",
-		"rubrik" => "Vilken bygghöjd önskar du?",
+		"rubrik" => "Vilken bygghï¿½jd ï¿½nskar du?",
 		"text" => "",
 		"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0003.png",
 		"fot" => "",
@@ -203,9 +203,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -224,9 +224,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -244,9 +244,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -261,12 +261,12 @@ $pages = array(
 	"golv-e-betong" => array(
 		"type" => "produkt",
 		"rubrik" => "Ingjutning i betong",
-		"text" => "Vid ingjutning i betong sprider betongen värmen jämt över ytan. Rören får inte ligga för djupt i betongen då det är risk att systemet blir svårt att reglera, och inte för grunt då det är risk för varma och kalla zoner. Ett djup på mellan 30 och 100 mm från rörets översida fungerar i de flesta fall. Betongplattan måste vara väl isolerad nedåt för att undvika värmeförluster.",
+		"text" => "Vid ingjutning i betong sprider betongen vï¿½rmen jï¿½mt ï¿½ver ytan. Rï¿½ren fï¿½r inte ligga fï¿½r djupt i betongen dï¿½ det ï¿½r risk att systemet blir svï¿½rt att reglera, och inte fï¿½r grunt dï¿½ det ï¿½r risk fï¿½r varma och kalla zoner. Ett djup pï¿½ mellan 30 och 100 mm frï¿½n rï¿½rets ï¿½versida fungerar i de flesta fall. Betongplattan mï¿½ste vara vï¿½l isolerad nedï¿½t fï¿½r att undvika vï¿½rmefï¿½rluster.",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Rörhållarskenor",
-			"Fästmärlor",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rhï¿½llarskenor",
+			"Fï¿½stmï¿½rlor",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -283,9 +283,9 @@ $pages = array(
 		"rubrik" => "Glespanel",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -299,12 +299,12 @@ $pages = array(
 	
 	"golv-e-tra" => array(
 		"type" => "produkt",
-		"rubrik" => "Träbjälklag",
+		"rubrik" => "Trï¿½bjï¿½lklag",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -318,13 +318,13 @@ $pages = array(
 	
 	"golv-e-span" => array(
 		"type" => "produkt",
-		"rubrik" => "Spånskivor",
+		"rubrik" => "Spï¿½nskivor",
 		"text" => "",
 		"innehall" => array(
-			"Spånskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Spï¿½nskivor",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -341,9 +341,9 @@ $pages = array(
 		"rubrik" => "Inspackling",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Rörhållarskenor",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rhï¿½llarskenor",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -373,38 +373,38 @@ $pages = array(
 	
 	"golv-n" => array(
 		"type" => "",
-		"rubrik" => "Vilken typ av golv ska du göra?",
+		"rubrik" => "Vilken typ av golv ska du gï¿½ra?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
 			array(
 				"rubrik" => "Ingjutning i betong",
-				"text" => "Golvvärme ingjuten i betongplatta.",
+				"text" => "Golvvï¿½rme ingjuten i betongplatta.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0001.png",
 				"linkpageid" => "golv-n-betong"
 			),
 			array(
-				"rubrik" => "Flytande golv på befintligt golv",
-				"text" => "Golvvärme monterad i cellplastskivor för t.ex renovering.",
+				"rubrik" => "Flytande golv pï¿½ befintligt golv",
+				"text" => "Golvvï¿½rme monterad i cellplastskivor fï¿½r t.ex renovering.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0003.png",
 				"linkpageid" => "golv-n-cell"
 			),
 			array(
 				"rubrik" => "Glespanel",
-				"text" => "Golvvärme monterad i glespanel c/c 30 cm.",
+				"text" => "Golvvï¿½rme monterad i glespanel c/c 30 cm.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0009.png",
 				"linkpageid" => "golv-n-gles"
 			),
 			array(
-				"rubrik" => "Träbjälklag",
-				"text" => "Golvvärme monterad i träbjälklag c/c 60 cm.",
+				"rubrik" => "Trï¿½bjï¿½lklag",
+				"text" => "Golvvï¿½rme monterad i trï¿½bjï¿½lklag c/c 60 cm.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0011.png",
 				"linkpageid" => "golv-n-tra"
 			),
 			array(
-				"rubrik" => "Spånskivor",
-				"text" => "Golvvärme monterad i spånskivor.",
+				"rubrik" => "Spï¿½nskivor",
+				"text" => "Golvvï¿½rme monterad i spï¿½nskivor.",
 				"bildurl" => "http://www.saljex.se/p/golvvarme/paket/s200/WG0013.png",
 				"linkpageid" => "golv-n-span"
 			)
@@ -414,7 +414,7 @@ $pages = array(
 	
 	"golv-n-cell" => array(
 		"type" => "",
-		"rubrik" => "Vilken bygghöjd önskar du?",
+		"rubrik" => "Vilken bygghï¿½jd ï¿½nskar du?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
@@ -447,9 +447,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -468,9 +468,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -488,9 +488,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -508,10 +508,10 @@ $pages = array(
 		"rubrik" => "Ingjutning i betong",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Rörhållarskenor",
-			"Fästmärlor",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rhï¿½llarskenor",
+			"Fï¿½stmï¿½rlor",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -528,9 +528,9 @@ $pages = array(
 		"rubrik" => "Glespanel",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -544,12 +544,12 @@ $pages = array(
 	
 	"golv-n-tra" => array(
 		"type" => "produkt",
-		"rubrik" => "Träbjälklag",
+		"rubrik" => "Trï¿½bjï¿½lklag",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -563,13 +563,13 @@ $pages = array(
 	
 	"golv-n-span" => array(
 		"type" => "produkt",
-		"rubrik" => "Spånskivor",
+		"rubrik" => "Spï¿½nskivor",
 		"text" => "",
 		"innehall" => array(
-			"Spånskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Spï¿½nskivor",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -598,12 +598,12 @@ $pages = array(
 	"micropaket" => array(
 		"type" => "produkt",
 		"rubrik" => "Shunt Micro",
-		"ltext" => "Shuntpaket för reglering av rum upp till " . $maxyta_e . "m2. Med kapillärrörstermostat.",
-		"text" => "Shuntpaket för reglering av rum upp till " . $maxyta_e . "m2. Med kapillärrörstermostat.",
+		"ltext" => "Shuntpaket fï¿½r reglering av rum upp till " . $maxyta_e . "m2. Med kapillï¿½rrï¿½rstermostat.",
+		"text" => "Shuntpaket fï¿½r reglering av rum upp till " . $maxyta_e . "m2. Med kapillï¿½rrï¿½rstermostat.",
 		"innehall" => array(
 			"Shunt Micro med energiklassad cirkulationspump",
-			"Kopplijgar för golvvärmerör",
-			"Kapillärrörstermostat"
+			"Kopplijgar fï¿½r golvvï¿½rmerï¿½r",
+			"Kapillï¿½rrï¿½rstermostat"
 		),
 		"pris" => 100,
 		"startpris" => 0,
@@ -628,8 +628,8 @@ $pages = array(
 
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-        <title>Wermgo porduktväljare</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Wermgo porduktvï¿½ljare</title>
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>		
 		<style type="text/css">
 			body {
@@ -1030,10 +1030,10 @@ $pages = array(
 		
 	<div id="headerarea" class="headerarea">
 		<div class="headerarea-logo"><a class="divlink" href="?"><img src="logo-wermgo-h32.png"></a></div>
-		<div class="headerarea-menu-item"><a class="divlink" href="?pageid=golv"><h4>GOLVVÄRME</h4></a></div>
+		<div class="headerarea-menu-item"><a class="divlink" href="?pageid=golv"><h4>GOLVVï¿½RME</h4></a></div>
 		<div class="headerarea-menu-item"><a class="divlink" href="?pageid=tapp"><h4>TAPPVATTEN</h4></a></div>
 		<div class="headerarea-menu-item"><a class="divlink" href="?pageid=om"><h4>OM OSS</h4></a></div>
-		<div class="headerarea-menu-item"><a class="divlink" href="?pageid=proffs"><h4>FÖR PROFFS</h4></a></div>
+		<div class="headerarea-menu-item"><a class="divlink" href="?pageid=proffs"><h4>Fï¿½R PROFFS</h4></a></div>
 		
 	</div>
 		
@@ -1056,7 +1056,7 @@ $pages = array(
 				<p><?php echo $p["text"]; ?></p>
 				<?php if (sizeof($p["innehall"]) > 0) { ?>
 					<div class="contentarea-innehall">
-						<b>Paketet innehåller: </b>
+						<b>Paketet innehï¿½ller: </b>
 							<?php $firstrun = true; ?>
 							<?php foreach($p["innehall"] as $v) { ?>
 								<?php if ($firstrun) $firstrun = false; else echo "* "; ?>
@@ -1086,14 +1086,14 @@ $pages = array(
 						<span id="getmaxyta"><?php echo $p["maxyta"]; ?></span>
 						<span id="getpris"><?php echo $p["pris"]; ?></span>
 					</div>
-					<h3>Beräkna ditt pris</h3>
+					<h3>Berï¿½kna ditt pris</h3>
 					<p>Ange yta: <input id="inputyta" min="1" type="number" onchange="calc()"></p>
-					<div id="displayresultat">Ditt pris för <span id="displayyta"></span> m2 blir<br><span id="displaysumma"></span> kr.</div>
+					<div id="displayresultat">Ditt pris fï¿½r <span id="displayyta"></span> m2 blir<br><span id="displaysumma"></span> kr.</div>
 				</div>
 				
 				<?php	if (sizeof($p["koptill"]) >0)	{ ?>
 					<div id="koptill">
-						<h2>Köp till</h2>
+						<h2>Kï¿½p till</h2>
 						<?php 
 						$odd = false;
 						$cn=0;
