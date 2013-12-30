@@ -29,7 +29,7 @@ $pages = array(
 	
 	"tapp" => array(
 		"type" => "",
-		"rubrik" => "Wermgo Tappvatten",
+		"rubrik" => "Wermgo Tappvatten2",
 		"text" => "Kompletta tappvattensystem av typen R�r-i-R�r.",
 		"bildurl" => "",
 		"fot" => "",
