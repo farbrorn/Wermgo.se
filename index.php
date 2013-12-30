@@ -29,8 +29,8 @@ $pages = array(
 	
 	"tapp" => array(
 		"type" => "",
-		"rubrik" => "Wermgo Tappvatten2",
-		"text" => "Kompletta tappvattensystem av typen R�r-i-R�r.",
+		"rubrik" => "Wermgo Tappvatten",
+		"text" => "Kompletta tappvattensystem av typen Rör-i-Rör.",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
