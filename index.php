@@ -13,7 +13,7 @@ $pages = array(
 		"fot" => "",
 		"items" => array(
 			array(
-				"rubrik" => "Golvvärme1",
+				"rubrik" => "Golvvärme222222",
 				"text" => "Kompletta systemlösnignar för golvvörme",
 				"bildurl" => "",
 				"linkpageid" => "golv"
