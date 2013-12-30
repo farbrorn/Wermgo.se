@@ -13,14 +13,14 @@ $pages = array(
 		"fot" => "",
 		"items" => array(
 			array(
-				"rubrik" => "Golvv�rme",
+				"rubrik" => "Golvvärme",
 				"text" => "Kompletta systemlösnignar för golvvörme",
 				"bildurl" => "",
 				"linkpageid" => "golv"
 			),
 			array(
 				"rubrik" => "Tappvatten",
-				"text" => "Kompletta systeml�sningar f�r tappvattensystem typ R�r-i-R�r.",
+				"text" => "Kompletta systemlösningar för tappvattensystem typ Rör-i-Rör.",
 				"bildurl" => "",
 				"linkpageid" => "tapp"
 			)
