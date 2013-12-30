@@ -3,10 +3,10 @@
 $maxyta_e = 50;
 $maxyta_n = 200;
 $pages = array(
-	//Startsida golvvärme
+	//Startsida golvvï¿½rme
 	"golv" => array(
 		"type" => "",
-		"rubrik" => "Vilken typ av installation ska du göra?",
+		"rubrik" => "Vilken typ av installation ska du dggï¿½ra?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
@@ -19,54 +19,54 @@ $pages = array(
 			),
 			array(
 				"rubrik" => "Flera rum, totalt upp till " . $maxyta_n . " m2",
-				"text" => "Nybyggnation eller större renovering.",
+				"text" => "Nybyggnation eller stï¿½rre renovering.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n"
 			)
 		)
 	),
 	
-	//Lista på enstaka rum
+	//Lista pï¿½ enstaka rum
 	"golv-e" => array(
 		"type" => "",
-		"rubrik" => "Vilken typ av golv ska du göra?",
+		"rubrik" => "Vilken typ av golv ska du gï¿½ra?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
 			array(
 				"rubrik" => "Ingjutning i betong",
-				"text" => "Golvvärme ingjuten i betongplatta.",
+				"text" => "Golvvï¿½rme ingjuten i betongplatta.",
 				"bildurl" => "",
 				"linkpageid" => "golv-e-betong"
 			),
 			array(
-				"rubrik" => "Flytande golv på befintligt golv",
-				"text" => "Golvvärme monterad i cellplastskivor för t.ex renovering.",
+				"rubrik" => "Flytande golv pï¿½ befintligt golv",
+				"text" => "Golvvï¿½rme monterad i cellplastskivor fï¿½r t.ex renovering.",
 				"bildurl" => "",
 				"linkpageid" => "golv-e-cell"
 			),
 			array(
 				"rubrik" => "Glespanel",
-				"text" => "Golvvärme monterad i glespanel c/c 30 cm.",
+				"text" => "Golvvï¿½rme monterad i glespanel c/c 30 cm.",
 				"bildurl" => "",
 				"linkpageid" => "golv-e-gles"
 			),
 			array(
-				"rubrik" => "Träbjälklag",
-				"text" => "Golvvärme monterad i träbjälklag c/c 60 cm.",
+				"rubrik" => "Trï¿½bjï¿½lklag",
+				"text" => "Golvvï¿½rme monterad i trï¿½bjï¿½lklag c/c 60 cm.",
 				"bildurl" => "",
 				"linkpageid" => "golv-e-tra"
 			),
 			array(
-				"rubrik" => "Spånskivor",
-				"text" => "Golvvärme monterad i spånskivor.",
+				"rubrik" => "Spï¿½nskivor",
+				"text" => "Golvvï¿½rme monterad i spï¿½nskivor.",
 				"bildurl" => "",
 				"linkpageid" => "golv-e-span"
 			),
 			array(
 				"rubrik" => "Inspackling",
-				"text" => "Golvvärme inspacklad i tunna golv. T.ex. vid renovering av badrum.",
+				"text" => "Golvvï¿½rme inspacklad i tunna golv. T.ex. vid renovering av badrum.",
 				"bildurl" => "",
 				"linkpageid" => "golv-e-q"
 			)
@@ -76,7 +76,7 @@ $pages = array(
 	
 	"golv-e-cell" => array(
 		"type" => "",
-		"rubrik" => "Vilken bygghöjd önskar du?",
+		"rubrik" => "Vilken bygghï¿½jd ï¿½nskar du?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
@@ -109,9 +109,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -127,9 +127,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -144,9 +144,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -160,10 +160,10 @@ $pages = array(
 		"rubrik" => "Ingjutning i betong",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Rörhållarskenor",
-			"Fästmärlor",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rhï¿½llarskenor",
+			"Fï¿½stmï¿½rlor",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -177,9 +177,9 @@ $pages = array(
 		"rubrik" => "Glespanel",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -190,12 +190,12 @@ $pages = array(
 	
 	"golv-e-tra" => array(
 		"type" => "produkt",
-		"rubrik" => "Träbjälklag",
+		"rubrik" => "Trï¿½bjï¿½lklag",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -206,13 +206,13 @@ $pages = array(
 	
 	"golv-e-span" => array(
 		"type" => "produkt",
-		"rubrik" => "Spånskivor",
+		"rubrik" => "Spï¿½nskivor",
 		"text" => "",
 		"innehall" => array(
-			"Spånskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Spï¿½nskivor",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -226,9 +226,9 @@ $pages = array(
 		"rubrik" => "Inspackling",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Rörhållarskenor",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rhï¿½llarskenor",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -255,44 +255,44 @@ $pages = array(
 	
 	"golv-n" => array(
 		"type" => "",
-		"rubrik" => "Vilken typ av golv ska du göra?",
+		"rubrik" => "Vilken typ av golv ska du gï¿½ra?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
 		"items" => array(
 			array(
 				"rubrik" => "Ingjutning i betong",
-				"text" => "Golvvärme ingjuten i betongplatta.",
+				"text" => "Golvvï¿½rme ingjuten i betongplatta.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n-betong"
 			),
 			array(
-				"rubrik" => "Flytande golv på befintligt golv",
-				"text" => "Golvvärme monterad i cellplastskivor för t.ex renovering.",
+				"rubrik" => "Flytande golv pï¿½ befintligt golv",
+				"text" => "Golvvï¿½rme monterad i cellplastskivor fï¿½r t.ex renovering.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n-cell"
 			),
 			array(
 				"rubrik" => "Glespanel",
-				"text" => "Golvvärme monterad i glespanel c/c 30 cm.",
+				"text" => "Golvvï¿½rme monterad i glespanel c/c 30 cm.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n-gles"
 			),
 			array(
-				"rubrik" => "Träbjälklag",
-				"text" => "Golvvärme monterad i träbjälklag c/c 60 cm.",
+				"rubrik" => "Trï¿½bjï¿½lklag",
+				"text" => "Golvvï¿½rme monterad i trï¿½bjï¿½lklag c/c 60 cm.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n-tra"
 			),
 			array(
-				"rubrik" => "Spånskivor",
-				"text" => "Golvvärme monterad i spånskivor.",
+				"rubrik" => "Spï¿½nskivor",
+				"text" => "Golvvï¿½rme monterad i spï¿½nskivor.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n-span"
 			),
 			array(
 				"rubrik" => "Inspackling",
-				"text" => "Golvvärme inspacklad i tunna golv. T.ex. vid renovering av badrum.",
+				"text" => "Golvvï¿½rme inspacklad i tunna golv. T.ex. vid renovering av badrum.",
 				"bildurl" => "",
 				"linkpageid" => "golv-n-q"
 			)
@@ -302,7 +302,7 @@ $pages = array(
 	
 	"golv-n-cell" => array(
 		"type" => "",
-		"rubrik" => "Vilken bygghöjd önskar du?",
+		"rubrik" => "Vilken bygghï¿½jd ï¿½nskar du?",
 		"text" => "",
 		"bildurl" => "",
 		"fot" => "",
@@ -335,9 +335,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -353,9 +353,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -370,9 +370,9 @@ $pages = array(
 		"text" => "",
 		"innehall" => array(
 			"Cellplastskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -387,10 +387,10 @@ $pages = array(
 		"rubrik" => "Ingjutning i betong",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Rörhållarskenor",
-			"Fästmärlor",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rhï¿½llarskenor",
+			"Fï¿½stmï¿½rlor",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -404,9 +404,9 @@ $pages = array(
 		"rubrik" => "Glespanel",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -417,12 +417,12 @@ $pages = array(
 	
 	"golv-n-tra" => array(
 		"type" => "produkt",
-		"rubrik" => "Träbjälklag",
+		"rubrik" => "Trï¿½bjï¿½lklag",
 		"text" => "",
 		"innehall" => array(
-			"Golvvärmerör",
-			"Värmefördelningsplåtar",
-			"Rörböjningsstöd"
+			"Golvvï¿½rmerï¿½r",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
@@ -433,13 +433,13 @@ $pages = array(
 	
 	"golv-n-span" => array(
 		"type" => "produkt",
-		"rubrik" => "Spånskivor",
+		"rubrik" => "Spï¿½nskivor",
 		"text" => "",
 		"innehall" => array(
-			"Spånskivor",
-			"Värmefördelningsplåtar",
-			"Golvvärmerör",
-			"Rörböjningsstöd"
+			"Spï¿½nskivor",
+			"Vï¿½rmefï¿½rdelningsplï¿½tar",
+			"Golvvï¿½rmerï¿½r",
+			"Rï¿½rbï¿½jningsstï¿½d"
 		),
 		"startpris" => 100,
 		"m2pris" => 100,
