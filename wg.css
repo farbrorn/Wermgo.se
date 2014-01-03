@@ -1,0 +1,342 @@
+			body {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			
+			.w33 {	width: 296px;	}
+			.w66 {	width: 612px;	} /* w33*2+4+1*marg-right */
+			.w100 {	width: 932px;	}
+			.mh10 { min-height: 100px; }
+			.mh20 { min-height: 200px; }
+			.mh30 { min-height: 300px; }
+			.mh40 { min-height: 400px; }
+			
+			.padded-margin { padding-left: 4px; padding-right: 4px; }
+			
+			.block {
+				margin: 0px 16px 16px 0px; 
+				padding: 0px;
+				display: inline-block;
+				vertical-align: top;
+			}
+			.block-content {
+				width: 100%;
+				border-left: 2px solid #65bae3;				
+				border-right: 2px solid #65bae3;
+				border-top: 2px solid #65bae3;
+				margin: 0px;
+				padding: 0px;
+			}
+			.block-content h3 {
+				font-size: 18px;
+				font-weight: bold;
+				text-align: center;
+				background-color: #65bae3;	
+				color: white;
+				margin: 0px 0px 4px 0px;
+				padding: 0px 0px 4px 0px;
+			}
+			.block-footer {
+        text-align: center;
+				width: 100%;
+				background-color: #65bae3;	
+				margin: 0px;
+				padding: 0px;
+				border-left: 2px solid #65bae3;				
+				border-right: 2px solid #65bae3;
+				border-bottom:  2px solid #65bae3;
+			}
+			
+
+			
+			
+			
+			
+			.contentarea {
+				font-family: Arial, sans-serif;
+				font-size: 16px;
+				text-align: left;
+				max-width: 980px;		
+				margin: 0px 0px 0px 16px;
+				padding: 0px;
+				color: black;
+			}			
+			
+			.contentarea h1,h2,h3,h4 {
+				padding: 0px 0px 0px 0px;
+				margin: 0px 0px 0px 0px;
+				font-family: 'Open Sans', Verdana, sans-serif;
+			}
+			
+			.contentarea p {
+				margin-bottom: 24px;
+			}
+			.contentarea h1 {
+				font-size: 32px;
+				font-weight: bold;
+				color: black;
+				margin: 16px 0px 16px 0px;
+				padding: 0px;
+			}
+			.contentarea h2 {
+				font-size: 18px;
+				font-weight: bold;
+				color: black;
+			}
+			.contentarea h4 {
+				font-size: 16px;
+				font-weight: bold;
+				color: black;
+				margin: 0px;
+			}
+
+			.contentarea-2col {
+				width: 600px;
+				padding: 4px 4px 4px 4px;
+				margin: 0px 16px 16px 0px;
+				border: 2px solid black;
+				min-height: 400px;
+				display: inline-block;
+				vertical-align: top;
+			}
+			.contentarea-1col {
+				width: 300px;
+				padding: 4px 4px 4px 4px;
+				margin: 0px 16px 16px 0px;
+				border: 2px solid black;
+				min-height: 400px;
+				display: inline-block;
+				vertical-align: top;
+			}
+			.contentarea-15col {
+				width: 450px;
+				padding: 4px 4px 4px 4px;
+				margin: 0px 16px 16px 0px;
+				border: 2px solid black;
+				min-height: 400px;
+				display: inline-block;
+				vertical-align: top;
+			}
+			
+			
+			.contentarea-innehall {
+				font-size: 14px;
+				margin-bottom: 16px;
+			}
+			.contentarea-pris {
+				margin-bottom: 16px;
+			}
+			
+			.contentarea-pris table{
+				margin-left: auto;
+				margin-right: auto;
+			}
+			
+			#koptill {
+				text-align: left;
+			}
+			
+			.koptill-produkt{
+				font-size: 14px;
+			} 
+			.koptill-produkt img {
+				max-width: 100px;
+				max-height: 100px;
+			} 
+			.koptill-produkt table {
+				width: 100%;
+				border-collapse: collapse;
+			} 
+			.koptill-produkt tr {
+				padding: 0px;
+				margin:0px;
+			} 
+			.koptill-produkt td {
+				padding: 0px 4px 0px 4px;
+				margin: 0px;
+			} 
+			
+			.koptill-even {
+				background-color: #ffffff;
+			}
+			.koptill-odd {
+				background-color: #fafafa;
+			}
+			
+			.subpage {
+				width: 300px;
+				padding: 0px 0px 0px 0px;
+				margin: 0px 16px 24px 0px;
+				min-height: 400px;
+				display: inline-block;
+				vertical-align: top;
+			}
+			.subpage h3 {
+				padding: 8px 0px 8px 0px;
+				margin: 0px 0px 8px 0px;
+				background-color: #65bae3;
+				color: white;
+				text-align: center;
+				
+			}
+			.subpage-border {
+				border-left: 2px solid #65bae3;				
+				border-right: 2px solid #65bae3;
+				border-top: 2px solid #65bae3;
+				width: 100%;
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			.subpage-info {
+				min-height: 120px;
+				text-align: left;
+				margin: 0px 0px 4px 0px;
+			}
+			.subpage-info p {
+				padding: 0px 8px 9px 8px;
+			}
+		
+			.subpage-picture {
+				margin: 0px 0px 0px 0px;
+				min-height: 210px;
+				vertical-align: middle;
+				text-align: center;
+			}
+			.subpage-btn {
+				vertical-align: middle;
+				text-align: left;
+				vertical-align: bottom;
+				width: 344px;
+			}
+			
+			.divlink {
+				display:block;
+				width:100%;
+				height:100%;
+				text-decoration:none;
+				color: inherit;
+			}
+			
+			.prisbelopp {
+				font-size: 24px;
+				color: red;
+				font-weight: bolder;
+			}
+			
+			.beraknapris {
+				background-color: cyan;
+				margin-bottom: 16px;
+			}
+			
+			#inputyta {
+				width: 4em;
+			}
+			#displaysumma {
+				color: red;
+				font-size: 36px;
+				font-weight: bolder;
+			}
+			#displayresultat {
+				visibility: hidden;
+			}
+			
+			
+			
+			
+			
+			
+			
+		input[type=checkbox].css-checkbox {
+							display:none;
+						}
+
+		input[type=checkbox].css-checkbox + label.css-label {
+			padding-left:30px;
+			height:25px; 
+			display:inline-block;
+			line-height:25px;
+			background-repeat:no-repeat;
+			background-position: 0 0;
+			font-size:25px;
+			vertical-align:middle;
+			cursor:pointer;
+
+		}
+
+		input[type=checkbox].css-checkbox:checked + label.css-label {
+			background-position: 0 -25px;
+		}
+		label.css-label {
+			background-image:url(check.png);
+			-webkit-touch-callout: none;
+			-webkit-user-select: none;
+			-khtml-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}			
+		
+		
+		
+		.footerarea {
+			font-family: Arial, sans-serif;
+			font-size: 12px;
+/*			width: 100%;*/
+			border-top: 1px solid black;
+			margin: 16px 0px 2px 0px;
+			padding: 2px 2% 0px 2%;
+		
+		}
+		.footerarea table {
+			border-collapse: collapse;
+		}
+		.footerarea-cell {
+				padding: 0px;
+				margin: 0px 8px 0px 8px;
+				display: inline-block;
+				vertical-align: top;
+		}
+		
+		
+		.headerarea {
+			font-family: Arial, sans-serif;
+			/*width: 100%;*/
+			background-color: #65bae3;
+			min-height: 32px;
+			margin: 0px;
+			padding: 0px 2% 0px 2%;
+			text-align: left;
+		/*	background-image: url(logo-bg.png);
+			background-repeat: repeat-x;*/
+		}
+		
+		.headerarea-logo {
+				width: 120px;
+				height: 32px;
+				margin: 0px 0px 0px 0px;
+				padding: 0px 2px 0px 2px;
+				display: inline-block;
+				vertical-align: top;
+				text-align: center;
+		}
+		.headerarea-menu-item {
+				width: 140px;
+				height: 32px;
+				margin: 0px 2px 0px 2px;
+				padding: 0px 2px 0px 2px;
+				display: inline-block;
+				text-align: center;
+				vertical-align: top;
+		}
+		.headerarea-menu-item h4 {
+			padding: 6px 0px 0px 0px;
+			font-weight: bold;
+			font-size: 16px;
+			margin: 0px;
+			color: white;
+			vertical-align: middle;
+			font-family: 'Open Sans', Verdana, sans-serif;
+		}		
+	
