@@ -1,6 +1,6 @@
 <?php
 $maxyta_e = 50;
-$maxyta_n = 200;
+$maxyta_n =    200;
 $pilknappurl="http://dummyimage.com/200x40/ed393a/0011ff&text=>";
 
 $pages = array(
